@@ -198,4 +198,4 @@ INSERT INTO board (title, content, id, bname)
 -- 자유게시판 리스트 보기
 SELECT * FROM board WHERE bname='freeboard';
 -- 공지사항  리스트 보기
-SELECT * FROM board WHERE bname='notice';
+SELECT * FROM board WHERE bname='notice';suamil_db
